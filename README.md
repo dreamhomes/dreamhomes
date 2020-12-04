@@ -1,33 +1,18 @@
-### Hello 👋, I'm Mengjia
-
-<a href="https://www.linkedin.com/in/mehdimabrouki/">
-  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.kaggle.com/mehdimabrouki">
-  <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
-</a>
-<a href="https://www.instagram.com/mabroukimehdi/">
-  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/mehdi.mabrouki1">
-  <img align="left" alt="Mehdi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+###  Hello <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px">, I'm Mengjia <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 <br />
 <br />
 
 Hi, I'm **Mengjia**, a **Algorithm Engineer** in Beijing.
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400" />
+  <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/super-kid.gif" alt="Super Kid" align="right" width="500">
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently an Algorithm Engineer;
-- 🌱 I’m currently learning AIOps + DevOps; 
-- 🤔 My interests are with Natural Language Processing, Computer vision, Graph Embedding, etc..;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via shenmj13@gmail.com to reach me.
-- 📝 See my [dreamhomes' blog](https://dreamhomes.github.io/) to get more info.
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" /> *I’m currently an Algorithm Engineer* 👨‍💻
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> *My interests are with Graph Embedding, Computer vision, AIOps etc* 😴
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="20vw" /> *Ask me about anything*  [![gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shenmj13@gmail.com)](mailto:shenmj13@gmail.com) 👽
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20vw" /> *See my [dreamhomes' blog](https://dreamhomes.github.io/) to get more info* 💡
 
 
 **Languages and Tools:**  
@@ -41,5 +26,9 @@ Hi, I'm **Mengjia**, a **Algorithm Engineer** in Beijing.
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ![Mengjia's github stats](https://github-readme-stats.vercel.app/api?username=dreamhomes&show_icons=true&hide_border=true)
+<a href="https://github.com/Daggy1234">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamhomes&layout=compact" />
+</a>
 
-⭐️ From [dreamhomes](https://github.com/dreamhomes)
+
+<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px"> From [dreamhomes](https://github.com/dreamhomes)
