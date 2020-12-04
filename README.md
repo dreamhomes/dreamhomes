@@ -3,7 +3,7 @@
 <br />
 <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/super-kid.gif" alt="Super Kid" align="right" width="500">
 
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuffs**
 
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" /> *I’m currently an Algorithm Engineer* 👨‍💻
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> *My interests are with Graph Embedding, Computer vision, AIOps etc* 😴
@@ -11,7 +11,7 @@
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20vw" /> *See my [dreamhomes' blog](https://dreamhomes.github.io/) to get more info* 💡
 
 
-**Languages and Tools:**  
+**Languages and Tools**  
 
 <code><a href="https://www.python.org/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://pytorch.org/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
@@ -25,5 +25,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamhomes&layout=compact" />
 </a>
 
-
-<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px"> ⭐️ From [dreamhomes](https://github.com/dreamhomes)
+⭐️ From [dreamhomes](https://github.com/dreamhomes) <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
