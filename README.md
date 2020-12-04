@@ -5,10 +5,10 @@
 
 **Talking about Personal Stuffs**
 
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" /> *I’m currently an Algorithm Engineer* 👨‍💻
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> *My interests are with Graph Embedding, Computer vision, AIOps etc* 😴
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="20vw" /> *Ask me about anything*  [![gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shenmj13@gmail.com)](mailto:shenmj13@gmail.com) 👽
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20vw" /> *See my [dreamhomes' blog](https://dreamhomes.github.io/) to get more info* 💡
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="25vw" /> *I’m currently an Algorithm Engineer* 👨‍💻
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="25vw" /> *My interests are with Graph Embedding, Computer vision, AIOps etc* 😴
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="25vw" /> *Ask me about anything @*  [![gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shenmj13@gmail.com)](mailto:shenmj13@gmail.com) 👽
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="25vw" /> *See my [dreamhomes' blog](https://dreamhomes.github.io/) to get more info* 💡
 
 
 **Languages and Tools**  
@@ -18,6 +18,7 @@
 <code><a href="https://www.linux.org/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 <code><a href="https://www.scala-lang.org/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-ar21.svg"></a></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
+<code><a href="https://kubernetes.io/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a></code>
 <code><a href="https://www.github.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 
 ![Mengjia's github stats](https://github-readme-stats.vercel.app/api?username=dreamhomes&show_icons=true&hide_border=true)
