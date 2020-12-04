@@ -13,13 +13,12 @@
 
 **Languages and Tools:**  
 
-<code><img height="25" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><a href="https://www.python.org/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a href="https://pytorch.org/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
+<code><a href="https://www.linux.org/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
+<code><a href="https://www.scala-lang.org/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-ar21.svg"></a></code>
+<code><a href="https://www.docker.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
+<code><a href="https://www.github.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 
 ![Mengjia's github stats](https://github-readme-stats.vercel.app/api?username=dreamhomes&show_icons=true&hide_border=true)
 <a href="https://github.com/Daggy1234">
@@ -27,4 +26,4 @@
 </a>
 
 
-<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px"> From [dreamhomes](https://github.com/dreamhomes)
+<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px"> ⭐️ From [dreamhomes](https://github.com/dreamhomes)
