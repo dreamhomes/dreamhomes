@@ -1,4 +1,4 @@
-###  Hello <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px">, I'm Mengjia <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+###  Hello <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="30px">, I'm Mengjia <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 <br />
 <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/super-kid.gif" alt="Super Kid" align="right" width="450">
@@ -6,7 +6,7 @@
 **Talking about Personal Stuffs**
 
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="25vw" /> *I’m currently an Algorithm Engineer* 👨‍💻
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="25vw" /> *My interests are with Graph Embedding, Computer vision, Causal Reasoning etc* 😴
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="25vw" /> *Research interests include Graph Embedding, Computer vision, Causal Reasoning etc* 😴
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="25vw" /> *Ask me about anything @*  [![gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shenmj13@gmail.com)](mailto:shenmj13@gmail.com) 
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="25vw" /> *See my [dreamhomes' blog](https://dreamhomes.github.io/) to get more info* 💡
 
