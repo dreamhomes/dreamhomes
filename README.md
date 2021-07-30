@@ -21,9 +21,4 @@
 <code><a href="https://kubernetes.io/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a></code>
 <code><a href="https://www.github.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 
-![Mengjia's github stats](https://github-readme-stats.vercel.app/api?username=dreamhomes&show_icons=true&hide_border=true)
-<a href="https://github.com/Daggy1234">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamhomes&layout=compact" />
-</a>
-
 ⭐️ From [dreamhomes](https://github.com/dreamhomes) <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
