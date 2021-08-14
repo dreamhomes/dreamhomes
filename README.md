@@ -6,7 +6,7 @@
 **Talking about Personal Stuffs**
 
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="25vw" /> *I’m currently an Algorithm Engineer about Machine Learning* 💻
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="25vw" /> *Research interests include Graph Embedding, Computer vision, Causal Reasoning etc* 😴
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="25vw" /> *Research interests include Graph Embedding, Spatio-temporal Series, Causal Reasoning etc* 😴
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="25vw" /> *Ask me about anything @*  [![gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shenmj13@gmail.com)](mailto:shenmj13@gmail.com) 
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="25vw" /> *See my [dreamhomes' blog](https://dreamhomes.github.io/) to get more info* 💡
 
