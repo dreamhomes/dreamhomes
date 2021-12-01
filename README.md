@@ -24,6 +24,13 @@
 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Redis 基础知识及其实践](https://dreamhomes.top/posts/202111301453/)
+- [Kafka 基础知识与实践](https://dreamhomes.top/posts/202111301120/)
+- [禅道 ——《程序员生存手册》](https://dreamhomes.top/posts/202111181051/)
+- [Python 泛型函数 Singledispatch 使用及其扩充场景](https://dreamhomes.top/posts/202111171744/)
+- [常用 Shell 命令汇总](https://dreamhomes.top/posts/202111161015/)
+- [NeurIPS 2021丨针对时间序列预测的拓扑注意力模型 TopAttn &amp; N-BEATS](https://dreamhomes.top/posts/202111111637/)
+- [利用 Github Actions 自动化部署 Hexo 博客](https://dreamhomes.top/posts/202111101556/)
 <!-- BLOG-POST-LIST:END -->
 
 ⭐️ From [dreamhomes](https://github.com/dreamhomes) <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
