@@ -9,8 +9,10 @@ on:
   #     branches: [ main ]
   #   pull_request:
   #     branches: [ main ]
-  schedule: # Run workflow automatically
-    - cron: '* 2 * * *' # Runs every hour, on the hour
+  #   schedule: # Run workflow automatically
+  #     - cron: '* 2 * * *' # Runs every hour, on the hour
+  repository_dispatch:
+    types: [update_profile]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
