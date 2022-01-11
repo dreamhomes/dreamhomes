@@ -24,13 +24,13 @@
 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [AAAI 2022丨图神经网络相关论文概览](https://dreamhomes.top/posts/202201101536/)
+- [AAAI 2022丨时间序列相关论文概览](https://dreamhomes.top/posts/202201101536/)
 - [Windows 系统中配置终端 Oh-My-Zsh 教程](https://dreamhomes.top/posts/202201092010/)
 - [ICDM 2021丨时间序列相关研究论文汇总](https://dreamhomes.top/posts/202112021109/)
 - [利用 Github Actions 自动更新最新博客文章到 Github Profile](https://dreamhomes.top/posts/202112011453/)
 - [Redis 基础知识与实践](https://dreamhomes.top/posts/202111301453/)
 - [Kafka 基础知识与实践](https://dreamhomes.top/posts/202111301120/)
-- [禅道 ——《程序员生存手册》](https://dreamhomes.top/posts/202111181051/)
-- [Python 泛型函数 Singledispatch 使用及其扩充场景](https://dreamhomes.top/posts/202111171744/)
 <!-- BLOG-POST-LIST:END -->
 
 ⭐️ From [dreamhomes](https://github.com/dreamhomes) <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
