@@ -24,7 +24,7 @@
 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [AAAI 2022丨图神经网络相关论文概览](https://dreamhomes.top/posts/202201101536/)
+- [AAAI 2022丨图神经网络相关论文概览](https://dreamhomes.top/posts/202201111536/)
 - [AAAI 2022丨时间序列相关论文概览](https://dreamhomes.top/posts/202201101536/)
 - [Windows 系统中配置终端 Oh-My-Zsh 教程](https://dreamhomes.top/posts/202201092010/)
 - [ICDM 2021丨时间序列相关研究论文汇总](https://dreamhomes.top/posts/202112021109/)
