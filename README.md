@@ -1,6 +1,6 @@
 <!-- ###  Hello <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="30px">, I'm Mengjia <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
  -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dreamhomes&theme=solarized_dark" alt="profile">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dreamhomes&theme=nord_bright" alt="profile">
 <!-- <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/super-kid.gif" alt="Super Kid" align="right" width="450"> -->
 
 **Talking about Personal Stuffs**
