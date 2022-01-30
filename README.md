@@ -24,13 +24,13 @@
 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [AAAI 2022丨LUNAR：基于图神经网络的统一离群点异常检测方法](https://dreamhomes.top/posts/202201281154/)
 - [Python 命令行参数解析模块 Fire 用法说明](https://dreamhomes.top/posts/202201171052/)
 - [AAAI 2022丨图神经网络相关论文概览](https://dreamhomes.top/posts/202201111536/)
 - [AAAI 2022丨时间序列相关论文概览](https://dreamhomes.top/posts/202201101536/)
 - [Windows 系统中配置终端 Oh-My-Zsh 教程](https://dreamhomes.top/posts/202201092010/)
 - [ICDM 2021丨时间序列相关研究论文汇总](https://dreamhomes.top/posts/202112021109/)
 - [利用 Github Actions 自动更新最新博客文章到 Github Profile](https://dreamhomes.top/posts/202112011453/)
-- [Redis 基础知识与实践](https://dreamhomes.top/posts/202111301453/)
 <!-- BLOG-POST-LIST:END -->
 
 ⭐️ From [dreamhomes](https://github.com/dreamhomes) <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
