@@ -25,7 +25,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [ICLR 2022丨Pyraformer：基于低复杂度金字塔注意机制的长时间序列建模与预测模型](https://dreamhomes.top/posts/202202071425/)
-- [AAAI 2022丨LUNAR：基于图神经网络的统一离群点异常检测方法](https://dreamhomes.top/posts/202201281154/)
+- [AAAI 2022丨LUNAR：基于图神经网络的统一离群点检测方法](https://dreamhomes.top/posts/202201281154/)
 - [Python 命令行参数解析模块 Fire 用法说明](https://dreamhomes.top/posts/202201171052/)
 - [AAAI 2022丨图神经网络相关论文概览](https://dreamhomes.top/posts/202201111536/)
 - [AAAI 2022丨时间序列相关论文概览](https://dreamhomes.top/posts/202201101536/)
