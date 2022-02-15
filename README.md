@@ -24,13 +24,13 @@
 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Scala 中使用 JUnit 进行参数化测试](https://dreamhomes.top/posts/202202151019/)
 - [Scala 单元测试框架 JUnit 使用](https://dreamhomes.top/posts/202202141510/)
 - [ICLR 2022丨Pyraformer：基于低复杂度金字塔注意机制的长时间序列建模与预测模型](https://dreamhomes.top/posts/202202071425/)
 - [AAAI 2022丨LUNAR：基于图神经网络的统一离群点检测方法](https://dreamhomes.top/posts/202201281154/)
 - [Python 命令行参数解析模块 Fire 用法说明](https://dreamhomes.top/posts/202201171052/)
 - [AAAI 2022丨图神经网络相关论文概览](https://dreamhomes.top/posts/202201111536/)
 - [AAAI 2022丨时间序列相关论文概览](https://dreamhomes.top/posts/202201101536/)
-- [Windows 系统中配置终端 Oh-My-Zsh 教程](https://dreamhomes.top/posts/202201092010/)
 <!-- BLOG-POST-LIST:END -->
 
 ⭐️ From [dreamhomes](https://github.com/dreamhomes) <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
