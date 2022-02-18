@@ -24,7 +24,7 @@
 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [时间序列趋势检验方法 Mann-Kendall Test](https://dreamhomes.top/posts/202202161704/)
+- [时间序列趋势检验方法 Mann-Kendall Test 及其 Python 实现](https://dreamhomes.top/posts/202202161704/)
 - [Scala 中使用 JUnit 进行参数化测试](https://dreamhomes.top/posts/202202151019/)
 - [Scala 单元测试框架 JUnit 使用](https://dreamhomes.top/posts/202202141510/)
 - [ICLR 2022丨Pyraformer：基于低复杂度金字塔注意机制的长时间序列建模与预测模型](https://dreamhomes.top/posts/202202071425/)
