@@ -24,13 +24,13 @@
 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [大规模图可视化分析框架 Graphistry](https://dreamhomes.top/posts/202204201700/)
 - [图数据上的离群点检测开源库 PyGod](https://dreamhomes.top/posts/202204081613/)
 - [IntelliJ IDEA/Pycharm 破解激活方式推荐](https://dreamhomes.top/posts/202204081455/)
 - [推荐一种 Python 获取时间序列数据集的方式 pandas_dataloader](https://dreamhomes.top/posts/202204071125/)
 - [灵魂拷问：是否真的需要深度学习模型来预测时间序列？](https://dreamhomes.top/posts/202203181809/)
 - [时间序列趋势检验方法 Mann-Kendall Test 及其 Python 实现](https://dreamhomes.top/posts/202202161704/)
 - [Scala 中使用 JUnit 进行参数化测试](https://dreamhomes.top/posts/202202151019/)
-- [Scala 单元测试框架 JUnit 使用](https://dreamhomes.top/posts/202202141510/)
 <!-- BLOG-POST-LIST:END -->
 
 ⭐️ From [dreamhomes](https://github.com/dreamhomes) <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
